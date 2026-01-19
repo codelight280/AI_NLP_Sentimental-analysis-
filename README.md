@@ -1,2 +1,16 @@
-# AI_NLP_Sentimental-analysis-
-Sentiment analysis turns human emotion into measurable data. It lets businesses, researchers, and governments understand public opinion at scale, moving from what people say to how they feel. This drives smarter decisions in marketing, finance, policy, and customer service by quantifying the subjective.
+# 📱 Social Media Sentiment Analysis
+
+## Project Overview
+Analyzed social media comments from YouTube about a movie to understand public sentiment. Achieved  accuracy in classifying comments as Positive/Negative/Neutral.
+
+Key Insights
+- 220+ of comments were positive about the movie
+- graphs and score of the sentiments
+
+ How to Run
+1. Place your Excel file in `comments.xlsx`
+2. Open notebook in jupiter or VS code
+3. Run all cells to see the analysis
+
+Sample Results
+
